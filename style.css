@@ -126,7 +126,7 @@ button:nth-child(2):hover{
     transform: translate(-50%,-50%);
     }
     .circle:nth-child(1){
-        background:linear-gradient(90deg,transparent 0.8%,rgb(245, 230, 58),rgb(168, 212, 96),rgb(60, 241, 14),orange );
+        background:linear-gradient(90deg,transparent 3.8%,rgb(245, 230, 58),rgb(168, 212, 96),rgb(60, 241, 14),orange );
         width: 20rem;
         
         
