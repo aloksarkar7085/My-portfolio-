@@ -134,7 +134,7 @@ button:nth-child(2):hover{
     .circle:nth-child(2){
 background-image:url("My_pic.jpg") ;
         width: 15rem;
-        background-size: 100% 100%;
+        background-size: cover;
        
         background-repeat: no-repeat;
         box-shadow: 0 0 1rem rgb(15, 228, 182),inset 0 0 3rem #050fa1,0 0 2rem rgb(4, 160, 233),inset 0 0 4rem rgb(7, 387, 190);
